@@ -1,2 +1,1 @@
-waa, aa, destination, navigation, speed, navigate, route, P, D, forward, Park, fuel, mph, active, level, ignition, far, android
-
+waa, aa, destination, navigation, navigate, route, active, ignition, android
